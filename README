@@ -1,6 +1,8 @@
 sorter.sh 
-  sorts student submissions by creating individual student lab directories conainining 
-  the unzipped submission and grading rubric
+  sorts student submissions
+    creates individual student lab directories
+    unzips .tar submission 
+    copies grading rubric to studet directories
 
 rubric.py 
-  requests laboratory feedback using Engr325 Fortran Program Rubric, then outputs feedback file
+  requests laboratory feedback

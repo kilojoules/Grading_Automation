@@ -1,3 +1,7 @@
+Here are the programs I wrote to speed up the
+grading process required by the Humboldt State
+University department of Environmental Resources Engineering.
+
 sorter.sh 
   sorts student submissions
     creates individual student lab directories
